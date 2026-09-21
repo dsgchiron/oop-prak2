@@ -1,0 +1,15 @@
+/workspaces/oop-prak2/obj/Debug/net10.0/oop-prak2.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/oop-prak2/obj/Debug/net10.0/oop-prak2.AssemblyInfoInputs.cache
+/workspaces/oop-prak2/obj/Debug/net10.0/oop-prak2.AssemblyInfo.cs
+/workspaces/oop-prak2/obj/Debug/net10.0/oop-prak2.csproj.CoreCompileInputs.cache
+/workspaces/oop-prak2/obj/Debug/net10.0/oop-prak2.sourcelink.json
+/workspaces/oop-prak2/bin/Debug/net10.0/oop-prak2
+/workspaces/oop-prak2/bin/Debug/net10.0/oop-prak2.deps.json
+/workspaces/oop-prak2/bin/Debug/net10.0/oop-prak2.runtimeconfig.json
+/workspaces/oop-prak2/bin/Debug/net10.0/oop-prak2.dll
+/workspaces/oop-prak2/bin/Debug/net10.0/oop-prak2.pdb
+/workspaces/oop-prak2/obj/Debug/net10.0/oop-prak2.dll
+/workspaces/oop-prak2/obj/Debug/net10.0/refint/oop-prak2.dll
+/workspaces/oop-prak2/obj/Debug/net10.0/oop-prak2.pdb
+/workspaces/oop-prak2/obj/Debug/net10.0/oop-prak2.genruntimeconfig.cache
+/workspaces/oop-prak2/obj/Debug/net10.0/ref/oop-prak2.dll
